@@ -1,0 +1,144 @@
+<cluster>
+    <nodo>
+        <maquinaVirtual>
+            <nombre>Win10</nombre>
+            <so>Windows 10</so>
+            <interfazRed>
+                <IP>167.255.1.1.</IP>
+                <MAC>D3:A2:0F:A2</MAC>
+            </interfazRed>
+            <interfazRed>
+                <IP>167.255.1.2.</IP>
+                <MAC>D3:A2:0F:A3</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+        <maquinaVirtual>
+            <nombre>Win11</nombre>
+            <so>Windows 11</so>
+            <interfazRed>
+                <IP>167.255.1.3.</IP>
+                <MAC>D3:A2:0F:A4</MAC>
+            </interfazRed>
+            <interfazRed>
+                <IP>167.255.1.4.</IP>
+                <MAC>D3:A2:0F:A5</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+        <maquinaVirtual>
+            <nombre>WinXP</nombre>
+            <so>Windows XP</so>
+            <interfazRed>
+                <IP>167.255.2.1.</IP>
+                <MAC>D3:A2:4F:AA</MAC>
+            </interfazRed>
+            <interfazRed>
+                <IP>167.255.1.2.</IP>
+                <MAC>D3:A3:0F:A3</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+    </nodo>
+    <nodo>
+        <maquinaVirtual>
+            <nombre>Ubuntu 1</nombre>
+            <so>Ubuntu 20</so>
+            <interfazRed>
+                <IP>167.255.1.5.</IP>
+                <MAC>D3:A2:0F:A6</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+        <maquinaVirtual>
+            <nombre>Ubuntu 2</nombre>
+            <so>Ubuntu 20</so>
+            <interfazRed>
+                <IP>167.255.1.6.</IP>
+                <MAC>D3:A2:0F:A7</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+        <maquinaVirtual>
+            <nombre>WinXP</nombre>
+            <so>Windows XP</so>
+            <interfazRed>
+                <IP>167.255.2.2.</IP>
+                <MAC>D3:A4:4F:AA</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+    </nodo>
+    <nodo>
+        <maquinaVirtual>
+            <nombre>Lubuntu</nombre>
+            <so>Lubuntu</so>
+            <interfazRed>
+                <IP>167.255.1.7.</IP>
+                <MAC>D3:A2:0F:A8</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+        <maquinaVirtual>
+            <nombre>Ubuntu 3</nombre>
+            <so>Ubuntu 17</so>
+            <interfazRed>
+                <IP>167.255.1.8.</IP>
+                <MAC>D3:A2:0F:A1</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+        <maquinaVirtual>
+            <nombre>WinXP</nombre>
+            <so>Windows XP</so>
+            <interfazRed>
+                <IP>167.255.2.3.</IP>
+                <MAC>D3:A5:4F:AA</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+    </nodo>
+    <nodo>
+        <maquinaVirtual>
+            <nombre>Win7</nombre>
+            <so>Windows 7</so>
+            <interfazRed>
+                <IP>167.255.1.9.</IP>
+                <MAC>D3:A2:0F:A9</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+        <maquinaVirtual>
+            <nombre>WinXP</nombre>
+            <so>Windows XP</so>
+            <interfazRed>
+                <IP>167.255.1.10.</IP>
+                <MAC>D3:A2:0F:AA</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+        <maquinaVirtual>
+            <nombre>WinXP</nombre>
+            <so>Windows XP</so>
+            <interfazRed>
+                <IP>167.255.1.11.</IP>
+                <MAC>D3:A6:1F:AA</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+    </nodo>
+    <nodo>
+        <maquinaVirtual>
+            <nombre>Win7</nombre>
+            <so>Windows 7</so>
+            <interfazRed>
+                <IP>167.255.1.12.</IP>
+                <MAC>D3:A2:2F:A9</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+        <maquinaVirtual>
+            <nombre>WinXP</nombre>
+            <so>Windows XP</so>
+            <interfazRed>
+                <IP>167.255.1.13.</IP>
+                <MAC>D3:A2:3F:AA</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+        <maquinaVirtual>
+            <nombre>WinXP</nombre>
+            <so>Windows XP</so>
+            <interfazRed>
+                <IP>167.255.1.14.</IP>
+                <MAC>D3:A2:4F:AA</MAC>
+            </interfazRed>
+        </maquinaVirtual>
+    </nodo>
+</cluster>

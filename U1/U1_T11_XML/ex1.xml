@@ -1,0 +1,205 @@
+<torneo>
+    <nombre>Torneo internacional</nombre>
+    <fecha_inicio>7-01-2020</fecha_inicio>
+    <fecha_fin>10-01-2020</fecha_fin>
+    <partido>
+        <fecha>
+        7-01-2020
+        </fecha>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <resultado_set>
+        9-7
+        </resultado_set>
+        <resultado_set>
+        7-5
+        </resultado_set>
+        <resultado_set>
+        8-6
+        </resultado_set>
+    </partido>
+    <partido>
+        <fecha>
+        7-01-2020
+        </fecha>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <resultado_set>
+        9-7
+        </resultado_set>
+        <resultado_set>
+        7-5
+        </resultado_set>
+        <resultado_set>
+        8-6
+        </resultado_set>
+    </partido>
+    <partido>
+        <fecha>
+        7-01-2020
+        </fecha>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <resultado_set>
+        9-7
+        </resultado_set>
+        <resultado_set>
+        7-5
+        </resultado_set>
+        <resultado_set>
+        8-6
+        </resultado_set>
+    </partido>
+    <partido>
+        <fecha>
+        7-01-2020
+        </fecha>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <resultado_set>
+        9-7
+        </resultado_set>
+        <resultado_set>
+        7-5
+        </resultado_set>
+        <resultado_set>
+        8-6
+        </resultado_set>
+    </partido>
+    <partido>
+        <fecha>
+        8-01-2020
+        </fecha>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <resultado_set>
+        9-7
+        </resultado_set>
+        <resultado_set>
+        7-5
+        </resultado_set>
+        <resultado_set>
+        8-6
+        </resultado_set>
+    </partido>
+    <partido>
+        <fecha>
+        8-01-2020
+        </fecha>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <resultado_set>
+        9-7
+        </resultado_set>
+        <resultado_set>
+        7-5
+        </resultado_set>
+        <resultado_set>
+        8-6
+        </resultado_set>
+    </partido>
+    <partido>
+        <fecha>
+        8-01-2020
+        </fecha>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <resultado_set>
+        9-7
+        </resultado_set>
+        <resultado_set>
+        7-5
+        </resultado_set>
+        <resultado_set>
+        8-6
+        </resultado_set>
+    </partido>
+    <partido>
+        <fecha>
+        9-01-2020
+        </fecha>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <resultado_set>
+        9-7
+        </resultado_set>
+        <resultado_set>
+        7-5
+        </resultado_set>
+        <resultado_set>
+        8-6
+        </resultado_set>
+    </partido>
+    <partido>
+        <fecha>
+        9-01-2020
+        </fecha>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <resultado_set>
+        9-7
+        </resultado_set>
+        <resultado_set>
+        7-5
+        </resultado_set>
+        <resultado_set>
+        8-6
+        </resultado_set>
+    </partido>
+    <partido>
+        <fecha>
+        10-01-2020
+        </fecha>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <jugador>
+        Pepito Perez
+        </jugador>
+        <resultado_set>
+        3-6
+        </resultado_set>
+        <resultado_set>
+        6-4
+        </resultado_set>
+        <resultado_set>
+        8-6
+        </resultado_set>
+    </partido>
+</torneo>
