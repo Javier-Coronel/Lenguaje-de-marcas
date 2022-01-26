@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE discografica SYSTEM "discografica_ext.dtd">
+<discografica>
+    <disco>
+        <titulo></titulo>
+        <interpretes>
+            <interprete>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </interprete>
+        </interpretes>
+        <numeroDePistas></numeroDePistas>
+        <pistas>
+            <pista>
+                <nombre></nombre>
+                <duracion></duracion>
+            </pista>
+        </pistas>
+    </disco>
+</discografica>

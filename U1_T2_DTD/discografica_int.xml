@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE discografica [
+    <!ELEMENT discografica (disco)*>
+    <!ELEMENT disco (titulo, interpretes, numeroDePistas,pistas)>
+    <!ELEMENT titulo (#PCDATA)>
+    <!ELEMENT interpretes (interprete)+>
+    <!ELEMENT interprete (nombre,apellidos,rol?)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT apellidos (#PCDATA)>
+    <!ELEMENT rol (#PCDATA)>
+    <!ELEMENT numeroDePistas (#PCDATA)>
+    <!ELEMENT pistas (pista+)>
+    <!ELEMENT pista (nombre,duracion)>
+    <!ELEMENT duracion (#PCDATA)>
+]>
+<discografica>
+    <disco>
+        <titulo></titulo>
+        <interpretes>
+            <interprete>
+                <nombre></nombre>
+                <apellidos></apellidos>
+            </interprete>
+        </interpretes>
+        <numeroDePistas></numeroDePistas>
+        <pistas>
+            <pista>
+                <nombre></nombre>
+                <duracion></duracion>
+            </pista>
+        </pistas>
+    </disco>
+</discografica>
