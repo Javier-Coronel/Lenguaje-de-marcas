@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder orderid="123" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ej4.xsd">
+    <orderperson></orderperson>
+    <shipto>
+        <name>Rosa</name>
+        <address>Calle A Numero 7</address>
+        <city>Sevilla</city>
+        <country>España</country>
+    </shipto>
+    <item>
+        <title>item</title>
+        <quantity>10</quantity>
+        <price>20</price>
+    </item>
+</shiporder>
