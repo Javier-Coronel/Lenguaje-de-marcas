@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libreria SYSTEM "ej2.dtd">
+<libreria catalogo="1 revista, 1 libro y 1 periódico">
+    <revista marca="El codigo roto">
+        <numero>102</numero>
+        <editorial>La revista xml</editorial>
+    </revista>
+    <libro titulo="La aventura del libro" editorial="LibrosyMas" autor="Libros"/>
+    <periódico fecha="7-2-11" nombre="El mensual"/>
+</libreria>
