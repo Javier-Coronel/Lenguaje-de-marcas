@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form>
+        <table>
+            <thead>
+                <tr>
+                    <td colspan="2">
+                        <p style="text-align: center; background-color:darkcyan;">IES Alixar Login</p>
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Usuario:</td>
+                    <td>
+                        <input type="text" name="User" id="User">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Password:</td>
+                    <td><input type="text" name="Password" id="Password"></td>
+                </tr>
+                <tr>
+                    <td>Fecha de Nacimiento:</td>
+                    <td><input type="date" name="FechaNacimiento" id="FechaNacimiento"></td>
+                </tr>
+
+                <tr>
+                    <td>Curso de Matriculación</td>
+                    <td>
+                        <select name="Curso" id="Curso">
+                            <option value="Primero DAW1">Primero DAW1</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="4">Role:</td>
+                    <td><input type="radio" name="Role" id="Role" checked></td>
+                </tr>
+                <tr>
+                    <td><input type="radio" name="Role" id="Role"></td>
+                </tr>
+                <tr>
+                    <td><input type="radio" name="Role" id="Role"></td>
+                </tr>
+                <tr>
+                    <td><input type="radio" name="Role" id="Role"></td>
+                </tr>
+                <tr>
+                    <td rowspan="3">Forma de Comunicación:</td>
+                    <td><input type="checkbox" name="Role" id="Role"></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="Role" id="Role"></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="Role" id="Role" checked></td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2">
+                        <p style="text-align: center;">
+                            <input type="submit">
+                            <input type="reset" value="Borrar">
+                        </p>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </form>
+</body>
+
+</html>

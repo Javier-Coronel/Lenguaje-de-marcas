@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <table border="1px">
+        <th>
+            <tr>
+                <td colspan="4"><p style="text-align: center;"><b>TRES EN RAYA</b></p></td>
+            </tr>
+        </th>
+        <tbody>
+            <tr>
+                <td></td>
+                <td>A</td>
+                <td>B</td>
+                <td>C</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td><img src="imagenes/cross.png" alt="cruz" ></td>
+                <td></td>
+                <td><img src="imagenes/ok.png" alt="ok"></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td></td>
+                <td><img src="imagenes/cross.png" alt="cruz"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td><img src="imagenes/ok.png" alt="ok" ></td>
+                <td></td>
+                <td><img src="imagenes/cross.png" alt="cruz"></td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <form>
+        <table>
+            <thead>
+                <tr>
+                    <td>
+                        <p>Turno para jugador Uno</p>
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Fila</td>
+                    <td><input type="number" name="Fila" id="Fila" max="3" min="1" placeholder="1"></td>
+                </tr>
+                <tr>
+                    <td>Columna</td>
+                    <td><input type="number" name="Columna" id="Columna" max="3" min="1" placeholder="2"></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input type="submit" value="Enviar" style="text-align: center;"></td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+
+</html>
