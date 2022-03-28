@@ -1,0 +1,6 @@
+El primer estilo da color al fondo.
+El segundo da color a todos los h1.
+El tercero da color a todos los hr.
+El cuarto da tamaño de texto y margen a la izquierda a los parrafos.
+El quinto da color y margen a la izquierda a aquellos parrafos con la clase verse.
+Los ultimos cuatro dan color a los enlaces dependiendo de su estado siendo no visitado, visitado, pasando el cursor y estando activo los estados.
